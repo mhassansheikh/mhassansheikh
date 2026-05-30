@@ -17,9 +17,9 @@
 
 - 📫 How to reach me **mhassansheikh1999@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/mohammad-hassan-b09225156/](https://www.linkedin.com/in/mohammad-hassan-b09225156/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/mohammad-hassan-b09225156/](https://www.linkedin.com/in/mohammad-hassan-sheikh)
 
-- ⚡ Fun fact **I think I can make you laugh and help you in Your problem in A fun way.**
+- ⚡ Fun fact **I think I can make you laugh and help you with your problem in A fun way.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
