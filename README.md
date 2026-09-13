@@ -5,17 +5,17 @@
 <img align="right" alt="Coding" width="400" src="https://process.filestackapi.com/cache=expiry:max/resize=width:1050/efbSR18hT5uRKuo0zoMA">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hassanmalang&label=Profile%20views&color=0e75b6&style=flat" alt="hassanmalang" /> </p>
 
-- 🌱 I’m currently learning **Data Science & Machine Learning|Django**
+- 🌱 I’m currently learning **Artificial Intelligence & Machine Learning|CNN**
 
 - 👯 I’m looking to collaborate on **Artificial Intelligence Projects**
 
-- 🤝 I’m looking for help with **Data Science learning**
+- 🤝 I’m looking for help with **Researched base learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/HassanMalang?tab=repositories](https://github.com/HassanMalang?tab=repositories)
 
 - 💬 Ask me about **Python,CNN,AI,SEO,SMM,Marketing,Entrepreneurship**
 
-- 📫 How to reach me **mhassansheikh1999@gmail.com**
+- 📫 How to reach me **mhassansheikh199@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/mohammad-hassan-b09225156/](https://www.linkedin.com/in/mohammad-hassan-sheikh)
 
